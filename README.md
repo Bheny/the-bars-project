@@ -44,7 +44,7 @@ Before you begin, ensure you have met the following requirements:
 ## Usage
 To start the development server, run:
 ```bash
-npm start
+npm run dev
 ```
 Open your browser and navigate to `http://localhost:3000`. You should see The Bars Project homepage!
 
